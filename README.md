@@ -1,4 +1,4 @@
-# Emir’s Algorithm Diary
+# Kareem’s Algorithm Diary
 
 Welcome! 👋  
 This repository contains all my Codeforces and CSES problem solutions, organized weekly.
